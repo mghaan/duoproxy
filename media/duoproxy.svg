@@ -46,6 +46,36 @@
         </meshpatch>
       </meshrow>
     </meshgradient>
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient941"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.34584036,0,0,0.26458333,79.335434,76.535367)"
+       x="96.577713"
+       y="77.667389">
+      <meshrow
+         id="meshrow953">
+        <meshpatch
+           id="meshpatch951">
+          <stop
+             path="c 33.7684,0  67.5369,0  101.305,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop943" />
+          <stop
+             path="c 0,0  0,0  0,0"
+             style="stop-color:#ff8b08;stop-opacity:1"
+             id="stop945" />
+          <stop
+             path="c -33.7684,0  -67.5369,0  -101.305,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop947" />
+          <stop
+             path="c 0,0  0,0  0,0"
+             style="stop-color:#ff8b08;stop-opacity:1"
+             id="stop949" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -55,7 +85,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="548.39453"
+     inkscape:cx="484.04781"
      inkscape:cy="428.56641"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -77,7 +107,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -155,7 +185,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:inline;">
+     style="display:inline">
     <rect
        style="fill:#ff0010;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264583"
        id="rect10"
@@ -260,61 +290,61 @@
          style="fill:#0016ff;fill-opacity:1;stroke-width:0.264583">LAN</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#00b20e;fill-opacity:1;stroke:none;stroke-width:0.264583;"
-       x="63.822342"
-       y="133.04761"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#00b20e;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="38.378284"
+       y="115.0871"
        id="text933"><tspan
          sodipodi:role="line"
          id="tspan931"
-         x="63.822342"
-         y="133.04761"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#00b20e;fill-opacity:1;stroke-width:0.264583;">UDP</tspan></text>
+         x="38.378284"
+         y="115.0871"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#00b20e;fill-opacity:1;stroke-width:0.264583">UDP</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#00b20e;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="254.7226"
-       y="109.14022"
+       x="241.25221"
+       y="124.10732"
        id="text933-4"><tspan
          sodipodi:role="line"
          id="tspan931-3"
-         x="254.7226"
-         y="109.14022"
+         x="241.25221"
+         y="124.10732"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#00b20e;fill-opacity:1;stroke-width:0.264583">UDP</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ceb300;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="90.562805"
-       y="88.879143"
+       x="91.311165"
+       y="48.842167"
        id="text933-5"><tspan
          sodipodi:role="line"
          id="tspan931-4"
-         x="90.562805"
-         y="88.879143"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ceb300;fill-opacity:1;stroke-width:0.264583"> INTERNET</tspan><tspan
+         x="91.311165"
+         y="48.842167"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ceb300;fill-opacity:1;stroke-width:0.264583">INTERNET</tspan><tspan
          sodipodi:role="line"
-         x="90.562805"
-         y="99.462479"
+         x="91.311165"
+         y="59.425503"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ceb300;fill-opacity:1;stroke-width:0.264583"
          id="tspan1125">PROVIDER A</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff8000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="166.295"
-       y="89.418236"
+       x="90.336998"
+       y="88.669876"
        id="text933-5-8"><tspan
          sodipodi:role="line"
          id="tspan931-4-3"
-         x="166.295"
-         y="89.418236"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff8000;fill-opacity:1;stroke-width:0.264583">   INTERNET</tspan><tspan
+         x="90.336998"
+         y="88.669876"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff8000;fill-opacity:1;stroke-width:0.264583">INTERNET</tspan><tspan
          sodipodi:role="line"
-         x="166.295"
-         y="100.00157"
+         x="90.336998"
+         y="99.253212"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff8000;fill-opacity:1;stroke-width:0.264583"
          id="tspan1127">PROVIDER B</tspan></text>
     <path
        style="display:inline;fill:none;stroke:#00b20e;stroke-width:2.26405;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 221.56615,60.107808 H 89.148657"
+       d="M 221.56615,63.849581 H 89.148657"
        id="path1016" />
     <path
        style="display:inline;fill:url(#meshgradient1111);fill-opacity:1;stroke:#00b20e;stroke-width:2.26405;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -323,13 +353,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#00b20e;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="94.943855"
-       y="70.807037"
+       x="164.91501"
+       y="73.052101"
        id="text933-4-8-6"><tspan
          sodipodi:role="line"
          id="tspan931-3-9-6"
-         x="94.943855"
-         y="70.807037"
+         x="164.91501"
+         y="73.052101"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#00b20e;fill-opacity:1;stroke-width:0.264583">UDP</tspan></text>
     <text
        xml:space="preserve"
@@ -396,6 +426,19 @@
          x="33.675961"
          y="81.944832"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">listening on port 10080</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 4">
+    <path
+       style="display:inline;fill:none;stroke:#ceb300;stroke-width:2.26400001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:9.05600004,9.05600004;stroke-opacity:1;stroke-dashoffset:0"
+       d="M 221.56614,63.849581 H 89.148657"
+       id="path1016-5" />
+    <path
+       style="display:inline;fill:url(#meshgradient941);fill-opacity:1;stroke:#ff8000;stroke-width:2.26404997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:13.58429983, 13.58429983000000085;stroke-opacity:1;stroke-dashoffset:0"
+       d="M 221.56616,77.667392 H 89.148658"
+       id="path1016-7-8" />
   </g>
   <script
      id="mesh_polyfill"
